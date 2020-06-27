@@ -1,0 +1,5 @@
+root: true
+plugins:
+  - '@my-pkg'
+extends:
+  - plugin:@my-pkg/base
